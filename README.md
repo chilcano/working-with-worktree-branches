@@ -64,6 +64,10 @@ $ git branch -a
 $ git worktree add -B simple-php-ts-ecs simple-php-ts-ecs origin/simple-php-ts-ecs
 ```
 
+> For further information, follow this guide:
+> https://github.com/chilcano/how-tos/blob/main/src/git_frequent_commands.md
+
+
 ## References
 
 - [AWS CDK](https://github.com/aws/aws-cdk)
